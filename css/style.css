@@ -1,0 +1,67 @@
+.header {
+    margin-top: 30px;
+}
+
+.p-title {
+    color: #3d495b;
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: 50px;
+}
+
+.p-tit {
+    color: #3d495b;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+form {
+	display: block;
+	padding: 20px;
+	width: 100%;
+	color: black;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+form input {
+	padding: 10px;
+	margin-bottom: 20px;
+	width: 100%;
+	height: 45px;
+	border: 1px solid #BEBEBE;
+    border-radius: 5px;
+}
+
+label {
+     padding-bottom: 9px;
+     font-weight: 500;
+}
+
+
+.password {
+	position: relative;
+}
+.password-control {
+	position: absolute;
+	top: 11px;
+	right: 6px;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background: url(../img/view.svg) 0 0 no-repeat;
+}
+.password-control.view {
+	background: url(../img/no-view.svg) 0 0 no-repeat;
+}
+
+.btn-list {
+    background-color: #7e52f6;
+    width: 100%;
+    height: 45px;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-weight: 400;
+}
+
