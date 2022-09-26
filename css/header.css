@@ -21,6 +21,7 @@ i {
 }
 
 .title_1 {
+    padding: 20px;
     color: #3d495b;
     font-weight: 600;
 }
@@ -42,3 +43,57 @@ i {
 .nav-item i {
     margin-left: 20px;
 }
+
+.title-about {
+    background-color: #ffffff;
+    border-top: 1px solid #BEBEBE;
+    height: 90px;
+    border-bottom: 1px solid #BEBEBE;
+}
+
+.icon-list {
+    display: flex;
+    margin-top: -60px;
+}
+
+.title-about h5 {
+    margin-top: 20px;
+    margin-right: 160px;
+}
+
+.content-body {
+    margin-top: 20px;
+    width: auto;
+    height: 80px;
+    padding-top: -50px;
+    border-top: 1px solid #BEBEBE;
+    border-bottom: 1px solid #BEBEBE;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.font_1 {
+    font-size: 13px;
+    margin-left: 40px;
+}
+
+.us_1 {
+    margin-right: 90px;
+}
+
+.form-check-input {
+    font-size: 23px;
+}
+
+.dropdown a {
+ text-decoration: none;
+ color: black; 
+ margin-bottom: 10px;
+}
+
+.dropdown-menu i {
+    font-size: 16px;
+    margin-left: auto;
+    padding: 10px;
+}
+
